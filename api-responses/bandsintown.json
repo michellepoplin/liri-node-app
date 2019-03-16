@@ -1,0 +1,158 @@
+[
+	{
+		"artist_id": "23",
+		"datetime": "2019-02-06T19:00:24",
+		"description": "",
+		"id": "100424435",
+		"lineup": [
+			"Nickelback"
+		],
+		"offers": [
+			{
+				"status": "available",
+				"type": "Tickets",
+				"url": "https://www.bandsintown.com/t/100424435?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=ticket"
+			}
+		],
+		"on_sale_datetime": "",
+		"url": "https://www.bandsintown.com/e/100424435?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=event",
+		"venue": {
+			"city": "Ōsaka-shi",
+			"country": "Japan",
+			"latitude": "34.6619535",
+			"longitude": "135.4347971",
+			"name": "Zepp Osaka Bayside",
+			"region": "Ōsaka-fu"
+		}
+	},
+	{
+		"artist_id": "23",
+		"datetime": "2019-02-07T19:00:45",
+		"description": "",
+		"id": "100424441",
+		"lineup": [
+			"Nickelback"
+		],
+		"offers": [
+			{
+				"status": "available",
+				"type": "Tickets",
+				"url": "https://www.bandsintown.com/t/100424441?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=ticket"
+			}
+		],
+		"on_sale_datetime": "",
+		"url": "https://www.bandsintown.com/e/100424441?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=event",
+		"venue": {
+			"city": "Nagoya-shi",
+			"country": "Japan",
+			"latitude": "35.163312",
+			"longitude": "136.8847",
+			"name": "Zepp Nagoya",
+			"region": "Aichi-ken"
+		}
+	},
+	{
+		"artist_id": "23",
+		"datetime": "2019-02-09T19:00:27",
+		"description": "",
+		"id": "100424446",
+		"lineup": [
+			"Nickelback"
+		],
+		"offers": [
+			{
+				"status": "available",
+				"type": "Tickets",
+				"url": "https://www.bandsintown.com/t/100424446?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=ticket"
+			}
+		],
+		"on_sale_datetime": "",
+		"url": "https://www.bandsintown.com/e/100424446?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=event",
+		"venue": {
+			"city": "Chiyoda-ku",
+			"country": "Japan",
+			"latitude": "35.6933175",
+			"longitude": "139.749885",
+			"name": "Nippon Budokan",
+			"region": "Tōkyō-to"
+		}
+	},
+	{
+		"artist_id": "23",
+		"datetime": "2019-02-13T19:00:50",
+		"description": "",
+		"id": "100424420",
+		"lineup": [
+			"Nickelback"
+		],
+		"offers": [
+			{
+				"status": "available",
+				"type": "Tickets",
+				"url": "https://www.bandsintown.com/t/100424420?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=ticket"
+			}
+		],
+		"on_sale_datetime": "",
+		"url": "https://www.bandsintown.com/e/100424420?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=event",
+		"venue": {
+			"city": "Boondall",
+			"country": "Australia",
+			"latitude": "-27.3422419",
+			"longitude": "153.0703745",
+			"name": "Brisbane Entertainment Centre",
+			"region": ""
+		}
+	},
+	{
+		"artist_id": "23",
+		"datetime": "2019-02-15T19:00:38",
+		"description": "",
+		"id": "100424424",
+		"lineup": [
+			"Nickelback"
+		],
+		"offers": [
+			{
+				"status": "available",
+				"type": "Tickets",
+				"url": "https://www.bandsintown.com/t/100424424?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=ticket"
+			}
+		],
+		"on_sale_datetime": "",
+		"url": "https://www.bandsintown.com/e/100424424?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=event",
+		"venue": {
+			"city": "Sydney Olympic Park",
+			"country": "Australia",
+			"latitude": "-33.84430379999999",
+			"longitude": "151.0620838",
+			"name": "Qudos Bank Arena",
+			"region": ""
+		}
+	},
+	{
+		"artist_id": "23",
+		"datetime": "2019-02-16T19:00:10",
+		"description": "",
+		"id": "100424427",
+		"lineup": [
+			"Nickelback"
+		],
+		"offers": [
+			{
+				"status": "available",
+				"type": "Tickets",
+				"url": "https://www.bandsintown.com/t/100424427?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=ticket"
+			}
+		],
+		"on_sale_datetime": "",
+		"url": "https://www.bandsintown.com/e/100424427?app_id=codingbootcamp\u0026came_from=267\u0026utm_medium=api\u0026utm_source=public_api\u0026utm_campaign=event",
+		"venue": {
+			"city": "Melbourne",
+			"country": "Australia",
+			"latitude": "-37.8216833",
+			"longitude": "144.9785474",
+			"name": "Rod Laver Arena",
+			"region": ""
+		}
+	}
+]

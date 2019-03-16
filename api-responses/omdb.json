@@ -1,0 +1,40 @@
+{
+	"Actors": "Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman",
+	"Awards": "Nominated for 1 Oscar. Another 9 wins \u0026 40 nominations.",
+	"BoxOffice": "$200,803,309",
+	"Country": "USA",
+	"DVD": "29 Mar 2011",
+	"Director": "Nathan Greno, Byron Howard",
+	"Genre": "Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",
+	"Language": "English",
+	"Metascore": "71",
+	"Plot": "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.",
+	"Poster": "https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_SX300.jpg",
+	"Production": "Walt Disney Pictures",
+	"Rated": "PG",
+	"Ratings": [
+		{
+			"Source": "Internet Movie Database",
+			"Value": "7.8/10"
+		},
+		{
+			"Source": "Rotten Tomatoes",
+			"Value": "89%"
+		},
+		{
+			"Source": "Metacritic",
+			"Value": "71/100"
+		}
+	],
+	"Released": "24 Nov 2010",
+	"Response": "True",
+	"Runtime": "100 min",
+	"Title": "Tangled",
+	"Type": "movie",
+	"Website": "http://Disney.com/Tangled",
+	"Writer": "Dan Fogelman (screenplay by), Jacob Grimm (based upon the fairy tale \"Rapunzel\" by), Wilhelm Grimm (based upon the fairy tale \"Rapunzel\" by)",
+	"Year": "2010",
+	"imdbID": "tt0398286",
+	"imdbRating": "7.8",
+	"imdbVotes": "350,840"
+}
